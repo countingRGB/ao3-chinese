@@ -1,0 +1,675 @@
+维护者：countingRGB
+版本号：1.0.0
+更新时间：2025-09-28
+
+
+词条
+
+// 角色
+Abominus：求雨鬼
+Acid Storm：酸雨
+Adaptus：神机真人
+Adrias：安德里亚斯
+Aero Raid：空阵
+Afterburner：烙铁
+Aftershock：余震
+Aimless：散漫
+Air Hammer：气锤
+Air Raid：空袭
+Airachnid：刃空旋
+Airazor：飞箭
+Airwave：气浪
+Alchemist Prime：撷天萃
+Alice：爱丽丝
+Alpha Prime：创天君
+Alpha Trion：钛师傅
+Amalgamous Prime：幻天灵
+Ambit：界限
+Ambulon：救护员
+Ammo：弹夹
+Angolmois Energy：灭世魔能
+Angry Archer：怒箭侠
+Animus：雄魂
+Ankylosaurus：甲龙
+Anomaly：异常
+Antagony：万人敌
+Anvil：铁砧
+Apache：阿帕奇
+Apeface：猿面
+Aquablast：水雷
+Aquafend：速航
+Arachnid：大蜘蛛
+Arcee：阿尔茜
+Archadis：始祖鸟
+Archforce：恶霸天
+Armordillo：犰狳
+Armorhide：重装甲
+Astraea：阿媞亚
+Astroscope：空间站
+Astrotrain：大火车
+Atomizer：喷子
+Augustus Edsel = 奥古斯塔斯·埃德塞
+Autocrasher：突撞
+Autojetter：突击
+Autolauncher：突射
+Autostinger：突刺
+Axe：巨斧
+Axer：利斧
+Backbeat：节拍
+Backstreet：后街
+Backtrack：后路
+Bantor：虎猿
+Banzai-Tron：立地太岁
+Barrage：弹幕
+Barrel Roll：翻腾
+Barricade：路障
+Battle Unicorn：战斗独角兽
+Battletrap：斗阵
+Bazooka：甲龙
+BB：爆击
+B'Boom：山魈
+Beachcomber：巨浪
+Beacon：烽火
+Beastbox：话匣子
+Beetle：甲虫
+Big Convoy：猛犸
+Big Daddy：大腕
+Big Hauler：托运
+Big Shot：大亨
+Bighorn：大角
+Bigmos：猛蚊
+Birdbrain：猛扑
+Bitstream：数据流
+Black Shadow：黑影
+Blackarachnia：蜘蛛
+Blackjack：胁迫
+Blackout：眩晕
+Blackwall：黑墙
+Blades：刀锋
+Blast Master：爆破大师
+Blast Off：爆炸
+Blaster：录音机
+Blaze Master：火烧云
+Blip：闪点
+Blitz：闪击
+Blitzwing：闪电
+Blockus：角斗
+Blot：污点
+Bludgeon：雷震
+Blue Bacchus：酒神
+Bluestreak：蓝霹雳
+Blurr：啰嗦
+Bluster：录音器
+Boltax：博塔斯
+Bomb-Burst：爆弹
+Bombshell：炸弹
+Bombshock：霹雳弹
+Bonecrusher：碎骨机
+Boom：作得欢
+Borebit：钻头
+Borehole：穿孔
+Boss：波速
+Botanica：树神
+Boulder：巨石
+Boxcar：大篷车
+Brains：小诸葛
+Brainstorm：小诸葛
+Brawl：吵闹
+Brawn：大汉
+Break：跳帧
+Breakdown：打击
+Bristleback：棘背
+Broadside：排炮
+Brute：暴坦
+Bruticus：混天豹
+Buckshot：铅弹
+Bugly：臭虫
+Bulkhead：隔板
+Bulletbike：子弹头
+Bumblebee：大黄蜂
+Bump：撞击
+Bumper：缓冲器
+Buzz Saw：胡蜂
+Buzzclaw：翼刀
+Buzzsaw：圆锯鸟
+Cade Yeager = 凯德·耶格尔
+Carly Witwicky = 卡莉·威特维奇
+Carmine Fanzone = 卡麦恩·范宗
+Catapult：闪跳
+Chase：追捕
+Cheetor：烈豹
+Chop Shop：屠夫
+Chromedome：电脑怪杰
+Cicadacon：寒蝉
+Claw Jaw：钩爪
+Cliffjumper：飞过山
+Cloaker：隐形兵
+Cloudraker：腾云
+Coelagon：腔棘
+Cohrada：大蛇
+Colossus Rhodes：巨人罗德斯
+Computron：计算王
+Conduit：电击
+Cosmos：宇宙飞碟
+Crazybolt：狂蜥
+Crosshairs：瞄准镜
+Cutthroat：割喉
+Cybershark：巨鲨
+Cyclonus：狂飙
+Daniel Witwicky = 丹尼尔·威特维奇
+Darcy：达希
+Dead End：封锁
+Deadheat：死火
+Defensor：守护神
+Demolishor：强拆
+DepthCharge：急先锋
+Derail：脱轨
+Destroyer：毁灭者
+Devastator：大力神
+Dinobot：恐龙
+Dinobot II：恐龙II
+Dirge：挽歌
+Dirgegun：招魂炮
+Dirt Boss：泥王
+Divebomb：大鹏
+Diver：跳蛙
+Double Punch：穿刺
+Doublecross：双头翼龙
+Doubletake：双刃剑
+Drag Strip：抢劫
+Dragstrip：抢劫
+Drancron：龙蜥
+Dreadwing：骇翼
+Drift：漂移
+Drill Bit：狂钻
+Drill Nuts：钻头
+Drive-By：骑射
+Duststorm：风卷尘
+Eject：喷射
+Elephorca：剑齿象
+Fangry：天狼
+Fastlane：浪子
+Fireflight：飞火
+First Aid：急救
+Flatline：平直线
+Flier：飞行兵
+Flywheels：飞轮
+Fortress Maximus：巨无霸
+Fracture：断层
+Fractyl：飞翼
+Freeway：高速路
+Frenzy：迷乱
+Front-Line：前线
+Fusion creature：融合生物
+Galvatron：惊破天
+Gears：变速箱
+Gigastorm：吹破天
+Gimlet：烈酒
+Gnaw：钢牙
+God Neptune：海底狂魔
+Goldbug：金甲虫
+Grand Slam：陆攻
+Grapple：吊车
+Grimlock：钢锁
+Groove：车辙
+Grotusque：翼虎
+Guardian：维护者
+Guiledart：狡龙
+Halfshell：半壳
+Hardhead：老顽固
+Hardshell：硬壳
+Harold Attinger = 哈罗德‧阿丁格
+Headmaster：头领战士
+Headstrong：铁头
+Heavy Soldier：重型兵
+Heinrad：狸猫
+Hellscream：冥啸
+Highbrow：海龙
+Hoist：滑车
+Hook：吊钩
+Horri-Bull：魔牛
+Hosehead：消防栓
+Hot Rod：热破
+Hot Shot：激射
+Hot Spot：热点
+Hotwire：热线
+Hound：探长
+Huffer：鲁莽
+Hun Gurrr：饿龙
+Hydra：天灾
+Icebird：冰鸟
+Iguanus：角蜥
+Ikard：乌贼
+Inferno：魔鬼
+Injector：毒针
+Insecticon：害虫
+Ironhide：铁皮
+Isaac Sumdac = 艾萨科·桑达克
+Jack Darby = 杰克·达比
+Jawbreaker：土狼
+Jazz：爵士
+Jetfire：天火
+Jetstorm：烈风
+Jhiaxus：哲拉萨斯
+Joshua：乔舒华
+Kickback：反冲
+Killer Punch：戟龙
+Knock Out：击倒
+Kup：杯子
+Landfill：掩埋
+Laserbeak：激光鸟
+Lazorbeak：尖牙
+Leader：指挥官
+Leaper：跳跃者
+Lightspeed：光速
+Lio Convoy：白狮王
+Lio Junior：小狮王
+Lockdown：禁闭
+Long Haul：拖斗
+Longarm Prime：长臂
+Longrack：长臂
+Lugnut：螺砪
+Mach Kick：烈马
+Macro：宏
+Magmatron：帝释天
+Magnaboss：大兽王
+Magnaboss II：百兽王
+Mainframe：主机
+Makeshift：千面人
+Manta Ray：电鳐
+Manterror：鬼螂
+Mantis：刀螂
+Master Disaster：灾难大师
+Max-B：重击
+Megastorm：震破天
+Megatron：威震天
+Meltdown：熔灭
+Menasor：飞天虎
+Metroplex：猛大帅
+Mindwipe：蝙蝠魔
+Mirage：幻影
+Mismatch：失衡
+Mixmaster：搅拌机
+Monsoon：季风雨
+Moon：月兔
+Motorarm：酒保
+Motormaster：汽车大师
+Nanosec：纳秒奈斯
+Nautilator：海员
+Nightbeat：夜巡
+Nightglider：夜行
+Noctorro：夜魔
+Obsidian：黑曜石
+Octane：毒气弹
+Oil Slick：浮油
+Omega Supreme：大力金刚
+Onslaught：袭击
+Onyx Primal：鬼蝠
+Optimal Optimus：擎天侀
+Optimus Minor：灵猴
+Optimus Primal：承天侀
+Optimus Prime：擎天柱
+Orcanoch：深海要塞
+Outback：腹地
+Overbite：狂咬
+Overclock：超频
+Overkill：暴龙
+Packrat：神偷
+Panther：黑豹
+Perceptor：感知器
+Pipes：管子
+Piranacon：海底狂魔
+Pointblank：直射
+Poison Bite：毒刺
+Polar Claw：熊爪
+Porter C. Powell = 波特·C·鲍威尔
+Pounce：突击
+Powerglide：滑翔机
+Powerhug：猛抱
+Powerpinch：夹钳
+Predaking：冲云霄
+Prima Prime：先觉天
+Primus：元始天尊
+Professor Princess：无上女王
+Prowl：警车
+Prowl II：巡游
+Punch：出击
+Quake：颤栗
+Quickstrike：快刀
+Quintessons：五面怪
+Raindance：雨舞
+Ram Horn：独角仙
+Ramhorn：犀牛
+Ramjet：喷气机
+Rampage：狂飙
+Rampart：壁垒
+Randy：野猪
+Ransack：掠夺
+Rartorata：蓑蜂
+Ratbat：蝙蝠精
+Ratchet：救护车
+Ravage：机器狗
+Razor Claw：利爪
+Razorbeast：剃刀
+Razorclaw：利爪
+Red Alert：红色警报
+Repugnus：异形
+Retrax：地虱
+Rewind：发条
+Rhino：古犀
+Rhinox：犀牛
+Rippersnapper：裂齿
+Ripraw：撕裂
+Roadbuster：路霸
+Rockbuster：碎石
+Rodimus Prime：补天士
+Rollbar：路障
+Rumble：轰隆隆
+Runabout：浪客
+Runamuck：游民
+Rung：荣格
+Saberback：棘背
+Safeguard：护卫者
+Sandstorm：沙暴
+Santon：神医
+Sari Sumdac = 莎莉·桑达克
+Scarem：啸叫
+Scattershot：激光炮
+Scavenger：清道夫
+Scientist：科学家
+Scissor Boy：剪刀手
+Scorponok：萨克巨人
+Scourge：瘟疫
+Scout：侦察兵
+Scrapper：铲土机
+Scuba：水肺
+Scylla：海妖
+Sea Clamp：海钳
+Sea Phantom：海幽灵
+Searchlight：探照灯
+Seaspray：浪花
+Seawing：海翼
+Seizor：擒拿
+Sentinel Prime：御天敌
+Sentinel Zeta Prime：御竞天择
+Shadow Panther：飞影
+Shane Dyson = 锡恩·戴森
+Sharp Edge：锯鳐
+Sharpshot：截杀
+Shellshock：弹震
+Shockwave：震荡波
+Shokaract：横行无忌
+Showdown：对决
+Shrapnel：弹片
+Sideswipe：横炮
+Silverbolt：银剑
+Sinnertwin：双头龙
+Siren：警笛
+Sixshot：六面兽
+Skalor：迷津
+Skids：刹车
+Skullcruncher：鳄龙
+Sky Lynx：天猫
+Sky Shadow：天影
+Skydive：俯冲
+Skyquake：天震
+Skywarp：闹翻天
+Slag：铁渣
+Slamdance：剑舞者
+Sling：长棘龙
+Slingshot：弹弓
+Slipstream：璇流
+Slo Mo：减速萨曼
+Sludge：淤泥
+Slug：铁渣
+Slugfest：剑龙
+Smokescreen：烟幕
+Snapdragon：狂龙
+Snapper：鳄龟
+Snaptrap：突陷
+Snarl：咆哮
+Sniper：狙击手
+Soldier：士兵
+Sonar：声纳
+Soundwave：声波
+Sparkplug：火花塞
+Spectro：快门
+Spike Witwicky = 斯派克·威特维奇
+Spittor：鞭舌
+Springer：弹簧
+Squawkbox：罗嗦大王
+Squawktalk：娘娘腔
+Squeezeplay：蝰蛇
+Stampy：蹦蹦跳
+Starscream：红蜘蛛
+Steeljaw：钢钳
+Stinger：蜂刺
+Stinkbomb：臭鼬
+Strafe：扫射
+Streetwise：大街
+Strika：夜袭
+Su Yueming = 苏月明
+Sunstorm：太阳风
+Sunstreaker：飞毛腿
+Superion：大无畏
+Survive：大熊
+Swerve：背离
+Swindle：诈骗
+Swoop：飞标
+Tailgate：挡板
+Tankor：坦克
+Tantrum：野牛
+Tarantulas：狼蛛
+Tarn：璇玑湖
+Tasmania Kid：幼獾
+Tectonix：板块
+Tentakil：诱杀
+Terminus：界标
+Terragator：恐龟
+Terrormander：鬼鳐
+Terrorsaur：蛇鸟
+Tesarus：提萨拉斯
+Tessa Yeager = 蒂莎·耶格尔
+The Fallen：堕落金刚
+The Motor Master：汽车大师
+Thrust：冲锋
+Thundercracker：惊天雷
+Tigatron：白虎
+Tonbot：蜻蜓
+Topspin：上旋
+Torca：巨灵神
+Toxitron：毒弥天
+Tracks：轮胎
+Trailbreaker：开路先锋
+Transmutate：变异变体
+Transquito：鬼蚊
+Trepan：环踞
+Triage：补伤
+Tripledacus：三巨头
+Tripredacus：三虫仙
+Trypticon：铁甲龙
+Turmoil：骚动
+Twin Twist：双旋
+Ultra Magnus：通天晓
+Unicron：宇宙大帝
+Venom：毒液
+Vice Grip：恶钳
+Viewfinder：反光镜
+Vortex：旋风
+Wall Crawler：壁爬者
+Warpath：战戟
+Wasp：小黄蜂
+Waspinator：黄蜂
+Weirdwolf：人狼
+Wheelie：转轮
+Wheeljack：千斤顶
+Whirl：旋刃
+Wide Load：宽载
+Wildrider：莽撞
+Windcharger：充电器
+Wingspan：飞翔
+Wolfang：狼牙
+Wreck-Gar：营救车
+Yoketron：无为天
+Zeta Prime：竞天择
+Orion Pax = 奥利安·派克斯
+Megatronus：震天尊
+Liege Maximo：马克西莫大帝
+Maximo：马克西莫
+Vector Prime：引天行
+Nexus Prime：经天纬
+Solus Prime：赛天骄
+Quintus Prime：无常天
+The Thirteen Prime：十三天元
+Elita-1：艾丽塔
+Lord High Protector：护星公
+
+// 地名
+Acid Waste：酸蚀荒原
+Altihex：翱翔天
+Aquatron：水泽星
+Blaster City：音爆城
+Boltax：智慧宝塔
+Caminus：天铸城
+Central City：中央市
+Crystal City：水晶城
+Cybertonium Pits：塞伯坦矿坑
+Cybertropolis：荣光城
+Darkmount：黑山
+Fort Scyk：斯科城堡
+Fort Scyx：塞斯堡
+Helex：海拉斯
+Hydrax：九头蛇
+Hydrax Plateau：九头蛇岛
+Iacon：铁堡
+Junkion：垃圾星
+Kalis：利刃天
+Kaon：卡隆
+Manganese Mountains：锰铁山脉
+Mithril Sea：秘银海
+Nebulos：星云星
+Nova Cronum：神思新城
+Nova Point：新星海角
+Nyon：尼昂
+Orbital Torus States：环轨行省
+Plasma Energy Chamber：等离子能量室
+Polyhex：莫邪天城
+Praxus：云雾山城
+Protihex：婆娑天城
+Quintessa：昆塔莎
+Rust Sea：锈海
+Sea of Rust：锈海
+Six Lasers Over Cybertron：六光乐园
+Slaughter City：屠戮城
+Sonic Canyons：音速峡谷
+Stanix：斯坦城
+Tagan Heights：黎明高地
+Tarn：璇玑湖
+Tesarus：提萨拉斯
+The Acid Waste：酸蚀荒地
+The Crystal City：水晶城堡
+The Mythril Sea：秘银海
+The Neutral Territories：中立区
+The Oracle Chamber：圣贤厅
+The Rad Zone：辐射区
+The Smelting Pool：大熔炼池
+Thunderhead Pass：雷云关
+Titanium Turnpike：钛钢高速
+Toxic Sludge Swamp：毒泥沼泽
+Tri-Torus Loop：三花聚顶
+Tyger Pax：和平圣坛
+Uraya：不破城
+Vector Sigma Chamber：魔力神球密室
+Velocitron：极速星
+Vos：青丘
+Yuss Village：尤斯村
+
+
+通用词条
+
+// 时间单位
+Astro-second：星秒
+Astro-minute：星分
+Breem：赛伯坦分
+Orn：赛伯坦日
+Vorn：赛伯坦年
+Nano-click：纳秒
+Cycle：周期
+Mega-Cycle：大周期
+Solar-Cycle：太阳周期
+Deca-Cycle：月亮周期
+Stellar-Cycle：恒星周期
+Mega-Cycle：更替周期
+
+//概念
+aft：臀部
+amica endura：永恒挚友
+audials：音频接收器
+audio receptors：音频接收器
+audio sensors：音频感应器
+back strut：脊背
+bipedalism cord：脊柱
+bitarlueus：前臂
+brain module：大脑模块
+cadulen：小腿
+chassis：胸膛
+cog：齿轮
+conjunx endura：终身伴侣
+conjunx：伴侣
+cons：虎子
+deactivation：钝化
+denta：牙齿
+dents：齿列
+dermas：嘴唇
+digits：手指
+duocon：分体双形态金刚
+energon：能量
+energon cube：能量块
+enstril：鼻子
+face plate：脸颊
+frag：拆
+frame：机体
+fuel lines：燃料管
+fusion cannon：融合炮
+glitch：卡壳
+glossa：舌头
+helm：头
+hexa-lateral scapula：背部
+intake：嘴
+mech：机
+mode attachment：模式附着症
+null ray：氖射线
+olfactory sensor：嗅觉感知器
+optic：光学镜
+optical ridge：眉骨
+optics：光学镜
+paint：涂装
+pedes：脚
+pistons：肌肉
+pleasure mech：服务机
+processor：处理器
+prime：领袖
+receptor orifice：音频孔
+reformatting：重新格式化
+reproduction：繁殖
+restarlueus：手臂
+service mech：服务机
+servos：手
+skid-plate：臀部装甲
+slag：炉渣
+spark：火种
+spark chamber：火种仓
+sparkmates：火伴
+spike：输出管
+stasis lock：静止锁定
+stabilizing servos：腿
+tank：油箱
+t-cog：变形齿轮
+the matrix：领导模块
+thoraxal cavity：胸腔
+tibulen：大腿骨
+transfluid：对接液
+valve：接口
+vent：换气口
+Vector Sigma：魔力神球
+
