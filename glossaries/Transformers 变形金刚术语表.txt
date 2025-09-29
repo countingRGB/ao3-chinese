@@ -1,6 +1,6 @@
 维护者：countingRGB
-版本号：1.0.0
-更新时间：2025-09-28
+版本号：1.0.1
+更新时间：2025-09-29
 
 
 词条
@@ -391,6 +391,7 @@ Seaspray：浪花
 Seawing：海翼
 Seizor：擒拿
 Sentinel Prime：御天敌
+Sentinel：御天敌
 Sentinel Zeta Prime：御竞天择
 Shadow Panther：飞影
 Shane Dyson = 锡恩·戴森
@@ -672,4 +673,5 @@ transfluid：对接液
 valve：接口
 vent：换气口
 Vector Sigma：魔力神球
+
 
